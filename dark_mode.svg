@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="862" height="492" viewBox="0 0 862 492" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14px" xml:space="preserve">
+<title>Miguel Mialdea, Senior Android Engineer</title>
+<rect x="0.5" y="0.5" width="861" height="491" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="86" font-weight="bold" fill="#3ddc84">         -o          o-</text>
+<text x="24" y="104" font-weight="bold" fill="#3ddc84">          +hydNNNNdyh+</text>
+<text x="24" y="122" font-weight="bold" fill="#3ddc84">        +mMMMMMMMMMMMMm+</text>
+<text x="24" y="140" font-weight="bold" fill="#3ddc84">      `dMMm:NMMMMMMN:mMMd`</text>
+<text x="24" y="158" font-weight="bold" fill="#3ddc84">      hMMMMMMMMMMMMMMMMMMh</text>
+<text x="24" y="176" font-weight="bold" fill="#3ddc84">  ..  yyyyyyyyyyyyyyyyyyyy  ..</text>
+<text x="24" y="194" font-weight="bold" fill="#3ddc84">.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.</text>
+<text x="24" y="212" font-weight="bold" fill="#3ddc84">:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:</text>
+<text x="24" y="230" font-weight="bold" fill="#3ddc84">:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:</text>
+<text x="24" y="248" font-weight="bold" fill="#3ddc84">:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:</text>
+<text x="24" y="266" font-weight="bold" fill="#3ddc84">:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:</text>
+<text x="24" y="284" font-weight="bold" fill="#3ddc84">-MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-</text>
+<text x="24" y="302" font-weight="bold" fill="#3ddc84"> +yy+ MMMMMMMMMMMMMMMMMMMM +yy+</text>
+<text x="24" y="320" font-weight="bold" fill="#3ddc84">      mMMMMMMMMMMMMMMMMMMm</text>
+<text x="24" y="338" font-weight="bold" fill="#3ddc84">      `/++MMMMh++hMMMM++/`</text>
+<text x="24" y="356" font-weight="bold" fill="#3ddc84">          MMMMo  oMMMM</text>
+<text x="24" y="374" font-weight="bold" fill="#3ddc84">          MMMMo  oMMMM</text>
+<text x="24" y="392" font-weight="bold" fill="#3ddc84">          oNMm-  -mMNs</text>
+<text x="334" y="32"><tspan fill="#3ddc84" font-weight="bold">miguel</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#3ddc84" font-weight="bold">mialdea</tspan></text>
+<text x="334" y="50" fill="#6e7681">──────────────────────────────────────────────────────────</text>
+<text x="334" y="68"><tspan fill="#3ddc84" font-weight="bold">OS</tspan><tspan fill="#c9d1d9" x="418">Android · Kotlin · Jetpack Compose</tspan></text>
+<text x="334" y="86"><tspan fill="#3ddc84" font-weight="bold">Role</tspan><tspan fill="#c9d1d9" x="418">Senior Android Engineer</tspan></text>
+<text x="334" y="104"><tspan fill="#3ddc84" font-weight="bold">Uptime</tspan><tspan fill="#c9d1d9" x="418">5+ years shipping Android to production</tspan></text>
+<text x="334" y="122"><tspan fill="#3ddc84" font-weight="bold">Host</tspan><tspan fill="#c9d1d9" x="418">Santander / Openbank app (3 yrs, payments)</tspan></text>
+<text x="334" y="140"><tspan fill="#3ddc84" font-weight="bold">Kernel</tspan><tspan fill="#c9d1d9" x="418">Kotlin · Coroutines &amp; Flow</tspan></text>
+<text x="334" y="158"><tspan fill="#3ddc84" font-weight="bold">Stack</tspan><tspan fill="#c9d1d9" x="418">Compose · Room · DataStore · WorkManager</tspan></text>
+<text x="334" y="176"><tspan fill="#3ddc84" font-weight="bold">DI.Net</tspan><tspan fill="#c9d1d9" x="418">Hilt · Koin · Retrofit · Ktor</tspan></text>
+<text x="334" y="194"><tspan fill="#3ddc84" font-weight="bold">Arch</tspan><tspan fill="#c9d1d9" x="418">Clean Architecture · MVVM / MVI · multi-module</tspan></text>
+<text x="334" y="212"><tspan fill="#3ddc84" font-weight="bold">Testing</tspan><tspan fill="#c9d1d9" x="418">JUnit 5 · MockK · Turbine · Espresso</tspan></text>
+<text x="334" y="230"><tspan fill="#3ddc84" font-weight="bold">Perf</tspan><tspan fill="#c9d1d9" x="418">Baseline Profiles · Macrobenchmark · R8</tspan></text>
+<text x="334" y="248"><tspan fill="#3ddc84" font-weight="bold">Media</tspan><tspan fill="#c9d1d9" x="418">ExoPlayer / Media3</tspan></text>
+<text x="334" y="284" fill="#58a6ff" font-weight="bold">─ Highlights ────────────────────────────────────────────</text>
+<text x="334" y="302"><tspan fill="#3ddc84">›</tspan><tspan fill="#c9d1d9"> Led the JUnit 4 → 5 migration of 3,000+ tests</tspan></text>
+<text x="334" y="320"><tspan fill="#3ddc84">›</tspan><tspan fill="#c9d1d9"> Payment features used by millions of people</tspan></text>
+<text x="334" y="338"><tspan fill="#3ddc84">›</tspan><tspan fill="#c9d1d9"> ExoPlayer player, the starting point of an internal library</tspan></text>
+<text x="334" y="356"><tspan fill="#3ddc84">›</tspan><tspan fill="#c9d1d9"> POS app a real shop runs daily: 193 tests</tspan></text>
+<text x="334" y="392" fill="#58a6ff" font-weight="bold">─ Contact ───────────────────────────────────────────────</text>
+<text x="334" y="410"><tspan fill="#3ddc84" font-weight="bold">Email</tspan><tspan fill="#c9d1d9" x="418">miguelmialdeamonzo@gmail.com</tspan></text>
+<text x="334" y="428"><tspan fill="#3ddc84" font-weight="bold">LinkedIn</tspan><tspan fill="#c9d1d9" x="418">in/miguel-mialdea-dev</tspan></text>
+<text x="334" y="446"><tspan fill="#3ddc84" font-weight="bold">Web</tspan><tspan fill="#c9d1d9" x="418">miguelmialdea.dev</tspan></text>
+<text x="334" y="464"><tspan fill="#3ddc84" font-weight="bold">Location</tspan><tspan fill="#c9d1d9" x="418">Valencia, Spain · open to remote (EU)</tspan></text>
+</svg>
