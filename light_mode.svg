@@ -28,14 +28,14 @@
 <text x="334" y="122"><tspan fill="#1a7f37" font-weight="bold">Host</tspan><tspan fill="#24292f" x="418">Santander / Openbank app (3 yrs, payments)</tspan></text>
 <text x="334" y="140"><tspan fill="#1a7f37" font-weight="bold">Kernel</tspan><tspan fill="#24292f" x="418">Kotlin · Coroutines &amp; Flow</tspan></text>
 <text x="334" y="158"><tspan fill="#1a7f37" font-weight="bold">Stack</tspan><tspan fill="#24292f" x="418">Compose · Room · DataStore · WorkManager</tspan></text>
-<text x="334" y="176"><tspan fill="#1a7f37" font-weight="bold">DI.Net</tspan><tspan fill="#24292f" x="418">Hilt · Koin · Retrofit · Ktor</tspan></text>
+<text x="334" y="176"><tspan fill="#1a7f37" font-weight="bold">DI.Net</tspan><tspan fill="#24292f" x="418">Hilt · Retrofit · Koin, Ktor (own)</tspan></text>
 <text x="334" y="194"><tspan fill="#1a7f37" font-weight="bold">Arch</tspan><tspan fill="#24292f" x="418">Clean Architecture · MVVM / MVI · multi-module</tspan></text>
 <text x="334" y="212"><tspan fill="#1a7f37" font-weight="bold">Testing</tspan><tspan fill="#24292f" x="418">JUnit 5 · MockK · Turbine · Espresso</tspan></text>
 <text x="334" y="230"><tspan fill="#1a7f37" font-weight="bold">Perf</tspan><tspan fill="#24292f" x="418">Baseline Profiles · Macrobenchmark · R8</tspan></text>
-<text x="334" y="248"><tspan fill="#1a7f37" font-weight="bold">Media</tspan><tspan fill="#24292f" x="418">ExoPlayer / Media3</tspan></text>
+<text x="334" y="248"><tspan fill="#1a7f37" font-weight="bold">Media</tspan><tspan fill="#24292f" x="418">ExoPlayer</tspan></text>
 <text x="334" y="284" fill="#0969da" font-weight="bold">─ Highlights ────────────────────────────────────────────</text>
-<text x="334" y="302"><tspan fill="#1a7f37">›</tspan><tspan fill="#24292f"> Led the JUnit 4 → 5 migration of 3,000+ tests</tspan></text>
-<text x="334" y="320"><tspan fill="#1a7f37">›</tspan><tspan fill="#24292f"> Payment features used by millions of people</tspan></text>
+<text x="334" y="302"><tspan fill="#1a7f37">›</tspan><tspan fill="#24292f"> Drove the JUnit 4 → 5 migration of 3,000+ tests</tspan></text>
+<text x="334" y="320"><tspan fill="#1a7f37">›</tspan><tspan fill="#24292f"> Payments in a core shared by 6 markets</tspan></text>
 <text x="334" y="338"><tspan fill="#1a7f37">›</tspan><tspan fill="#24292f"> ExoPlayer player, the starting point of an internal library</tspan></text>
 <text x="334" y="356"><tspan fill="#1a7f37">›</tspan><tspan fill="#24292f"> POS app a real shop runs daily: 193 tests</tspan></text>
 <text x="334" y="392" fill="#0969da" font-weight="bold">─ Contact ───────────────────────────────────────────────</text>
